@@ -2,7 +2,7 @@
  
 *This is me **Bathina Madhuri**, a final year **Computer Science specilized in CyberSecurity** undergraduate from [Godavari Insitute of Engineering and Technology, Rajahmundry](https://giet.ac.in/). An aspiring **Full-Stack/Frontend web Developer, Redhat Beginner Proficiency**  and **Cyber Enthusiast.***
  
-  ***"---Commit and Conquer---"***
+  ***"---Commit and Conquer---"*** 
 
 ***Snapshots of Me 👩‍💻***
 - *👀 I’m a Tech Enthusiast.*
